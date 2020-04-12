@@ -1,0 +1,11 @@
+entrypoints==0.3
+flake8==3.7.9
+mccabe==0.6.1
+pycodestyle==2.5.0
+pydocstyle==5.0.2
+pyflakes==2.1.1
+PyQt5==5.14.1
+PyQt5-sip==12.7.1
+Quamash==0.6.1
+snowballstemmer==2.0.0
+websockets==8.1

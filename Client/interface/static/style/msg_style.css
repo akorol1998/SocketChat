@@ -1,0 +1,29 @@
+QLabel#member {
+	background-color: #e0feff;
+	padding: 2px;
+	border: 1px solid black;
+	margin: 2px;
+	border-radius: 4px;
+}
+
+QLabel#empty{
+	padding: 2px;
+	border: 1px solid transparent;
+}
+
+QLabel#client {
+	background-color: #f7eb97;
+	padding: 2px;
+	border: 1px solid black;
+	border-radius: 4px;
+}
+
+QLabel#notification {
+	padding: 4px;
+}
+
+QGroupBox#msg_goupBox {
+	border: 10;
+}
+
+/* "background-color: #e9f3f7; padding: 2px; border-radius: 4px; border: 1px solid black;" */
